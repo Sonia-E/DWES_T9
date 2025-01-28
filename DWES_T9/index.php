@@ -18,7 +18,7 @@
                     <input type="text" name="pokemon" placeholder="Introduce el nombre del Pokémon o 'todos' para listarlos a todos">
                     <input type="submit" value="Buscar">
                     <button id="todos" name="todos">Listar todos los pokémon</button>
-                    <button id="limpiar" name="limpiar">Limbiar resultados</button>
+                    <button id="limpiar" name="limpiar">Limpiar resultados</button>
                 </form>
 
                 <?php
